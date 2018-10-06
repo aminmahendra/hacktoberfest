@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Amin Mahendra] (https://github.com/aminmahendra)
+- Place: Semarang, Indonesia
+- Bio: Second Year Computer Science Student
+- GitHub: [Amin Mahendra] (https://github.com/aminmahendra)
