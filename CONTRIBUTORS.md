@@ -2431,4 +2431,4 @@ Noida
 #### Name: [Amin Mahendra] (https://github.com/aminmahendra)
 - Place: Semarang, Indonesia
 - Bio: Second Year Computer Science Student
-- GitHub: [Amin Mahendra] (https://github.com/aminmahendra)
+- GitHub: [Amin Mahendra](https://github.com/aminmahendra)
